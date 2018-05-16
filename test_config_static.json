@@ -1,0 +1,16 @@
+{
+    "choice_value": "lstm",
+    "choices_first_value": "gru",
+    "choices_first_value_list": [
+        {
+            "value": "gru"
+        }
+    ],
+    "choices_value": [
+        "lstm"
+    ],
+    "randint_value": 130,
+    "randrange_value": 20,
+    "shuffle_value": "None",
+    "uniform_value": 0.15845503640889036
+}
